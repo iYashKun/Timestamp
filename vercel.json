@@ -1,1 +1,6 @@
-{"functions": { "api/**/*.ts": { "runtime": "@vercel/node" } }}
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "functions": { "api/**/*.ts": { "maxDuration": 30 } }
+}
