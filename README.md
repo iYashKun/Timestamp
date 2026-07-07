@@ -1,1 +1,1 @@
-# <img src="https://raw.githubusercontent.com/iSreyanshu/iSreyanshu/app/.github/images/31.duck.png" align="center"/> Timestamp
+# <img src="https://skillicons.dev/icons?i=ts" align="center"/> Timestamp
